@@ -1,0 +1,3 @@
+Splits files on lines matching a regular expression.
+
+This is destructive of existing files that have the same filename as one of the output files. Use at your own risk.
