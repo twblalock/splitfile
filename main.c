@@ -78,8 +78,6 @@ int main(int argc, char *argv[]) {
 		out_file = NULL;
 	    }
 	}
-
-
     }
 
     fclose(out_file);
